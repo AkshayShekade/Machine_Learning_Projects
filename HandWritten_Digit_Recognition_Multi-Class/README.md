@@ -2,21 +2,12 @@
 Handwritten Digit Recognition with ML Classification Models🔢📝
   
 SVM - Random Forest - Decision Tree 📈⚙️
-</h1>
 
-<p align="center">
-  <img src="https://github.com/Duygu-Jones/Machine-Learning-Projects/blob/main/HandWritten_Digit_Recognition_Multi-Class/img/digits2x.png?raw=true"
-">
-</p>
 
 ## Introduction
 
 The goal of this project is to accurately classify handwritten digits using a dataset of digit samples. The dataset comprises a sequence of 16 features representing various characteristics of the handwritten digits.
 
-<p align="center">
-  <img src="https://github.com/Duygu-Jones/Machine-Learning-Projects/blob/main/HandWritten_Digit_Recognition_Multi-Class/img/digits3.png?raw=true"
-">
-</p>
 
 
 ## Problem Statement
