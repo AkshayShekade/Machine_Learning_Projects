@@ -5,7 +5,7 @@
 </h1>
 
 <p align="center">
-  <img src="https://github.com/Duygu-Jones/Machine-Learning-Projects/blob/main/CO2_Emissions_ML_Models/CO2emission.png?raw=true">
+  <img src="https://github.com/AkshayShekade/Machine_Learning_Projects/blob/main/Co2_Emission_ML_Models/_ea5fb059-2fc3-4a4f-89a8-ed59a8b76b3c.jpg">
 </p>
 
 ## Executive Summary:
@@ -86,14 +86,10 @@ To further improve the analysis and model performance:
 
 ---
 
-## ⬇️Installation
-
-*To view the notebook online, visit my **Kaggle** profile.*
-*If you find this work helpful, don't forget to give it an 👍 UPVOTE! and join the discussion!*
-**Kaggle Notebook:** [CO2 Emissions (EDA and ML) Linear Regression](https://www.kaggle.com/code/duygujones/co2-emissions-analysis-and-prediction)
 
  - This dataset is available to download on the Kaggle website: [CO2 Emissions_Canada.csv](https://www.kaggle.com/datasets/debajyotipodder/co2-emission-by-vehicles)
  - Acknowledgements: Official open data website of Canada Government [Link](https://open.canada.ca/data/en/dataset/98f1a129-f628-4ce4-b24d-6f16bf24dd64#wb-auto-6)
+
 
 ## 🤝Contributing
 
@@ -103,15 +99,16 @@ Contributions are welcome! If you have any improvements, suggestions, or additio
 
 ## 🌱About Me
 
-I'm Duygu Jones, a Data Scientist, passionate about data analysis, and machine learning.
+I'm Akshay Shekade, a Data Scientist, passionate about data visualization, analysis, and machine learning. 
 
 ♻️ You can find more about me and my work through the following links:
 
-- **Linkedin**: [Linkedin/duygujones](https://www.linkedin.com/in/duygujones/)
-- **Website**: [duygujones.com](https://duygujones.vercel.app/)
-- **Kaggle**: [kaggle.com/duygujones](https://www.kaggle.com/duygujones)
-- **GitHub**: [github.com/Duygu-Jones](https://github.com/Duygu-Jones)
-- **Medium**: [medium.com/@duygujones](https://medium.com/@duygujones)
+- **Linkedin**: [Linkedin](https://www.linkedin.com/in/akshay-shekade-a225a8135/?trk=opento_sprofile_topcard)
+- **Website**: [Portfolio](https://akshayshekade.github.io/)
+- **GitHub**: [Github](https://github.com/AkshayShekade)
+- **Tableau Public**: [Tableau Public](https://public.tableau.com/app/profile/akshay.shekade/vizzes)
+
+
 
 🌐Feel free to connect with me!
 
@@ -124,7 +121,3 @@ I'm Duygu Jones, a Data Scientist, passionate about data analysis, and machine l
 Code with joy! 👩‍💻✨
 
 ---
-
-##### 📜 License
-
-##### This repository is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
