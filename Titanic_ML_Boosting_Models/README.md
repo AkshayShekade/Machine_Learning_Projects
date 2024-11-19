@@ -6,7 +6,7 @@
 
 
 <p align="center">
-  <img src="https://github.com/Duygu-Jones/Machine-Learning-Projects/blob/main/Titanic_ML_Boosting_Models/img/titanic_gif2.gif?raw=true"
+  <img src="https://github.com/AkshayShekade/Machine_Learning_Projects/blob/main/Titanic_ML_Boosting_Models/img/titanic_gif2.gif"
 </p>
 
 <h3 align="center"> The Story Behind This Notebook: My Titanic Data Journey </h3>
@@ -29,7 +29,7 @@ Finally, after carefully comparing the models, a final model was selected and us
 
 ## About the Project
 <p align="center">
-  <img src="https://github.com/Duygu-Jones/Machine-Learning-Projects/blob/main/Titanic_ML_Boosting_Models/img/titanicX2.png?raw=true"
+  <img src="https://github.com/AkshayShekade/Machine_Learning_Projects/blob/main/Titanic_ML_Boosting_Models/img/titanicX2.png"
 </p>
   
 The goal of this project is to build a predictive model that identifies the characteristics and conditions associated with a higher likelihood of survival.   
@@ -114,12 +114,6 @@ In this project, we used AdaBoost, Gradient Boosting, XGBoost, Stacking, Random 
 
 ---
 
-## ⬇️Installation
-
-*To view the notebook online, visit my **Kaggle** profile.*
-*If you find this work helpful, don't forget to give it an 👍 UPVOTE! and join the discussion!*
-
- - Kaggle Notebook: [Titanic Prediction-Advanced Ensemble ML Models🚢⚓](https://www.kaggle.com/code/duygujones/titanic-prediction-advanced-ensemble-ml-models)
  - The dataset is available to download on the Kaggle: [Titanic - Machine Learning from Disaster](https://www.kaggle.com/competitions/titanic)
  - Relevant Paper: Will Cukierski. (2012). Titanic - Machine Learning from Disaster. Kaggle. https://kaggle.com/competitions/titanic 
 
@@ -131,15 +125,15 @@ Contributions are welcome! If you have any improvements, suggestions, or additio
 
 ## 🌱About Me
 
-I'm Duygu Jones, a Data Scientist, passionate about data analysis, and machine learning.
+I'm Akshay Shekade, a Data Scientist, passionate about data visualization, analysis, and machine learning. 
 
 ♻️ You can find more about me and my work through the following links:
 
-- **Linkedin**: [Linkedin/duygujones](https://www.linkedin.com/in/duygujones/)
-- **Website**: [duygujones.com](https://duygujones.vercel.app/)
-- **Kaggle**: [kaggle.com/duygujones](https://www.kaggle.com/duygujones)
-- **GitHub**: [github.com/Duygu-Jones](https://github.com/Duygu-Jones)
-- **Medium**: [medium.com/@duygujones](https://medium.com/@duygujones)
+- **Linkedin**: [Linkedin](https://www.linkedin.com/in/akshay-shekade-a225a8135/?trk=opento_sprofile_topcard)
+- **Website**: [Portfolio](https://akshayshekade.github.io/)
+- **GitHub**: [Github](https://github.com/AkshayShekade)
+- **Tableau Public**: [Tableau Public](https://public.tableau.com/app/profile/akshay.shekade/vizzes)
+
 
 🌐Feel free to connect with me!
 
@@ -152,7 +146,3 @@ I'm Duygu Jones, a Data Scientist, passionate about data analysis, and machine l
 Code with joy! 👩‍💻✨
 
 ---
-
-##### 📜 License
-
-##### This repository is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
