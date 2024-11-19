@@ -22,13 +22,11 @@ This repository contains a diverse collection of machine learning projects, each
 
 ---
 
- <br>
-*If you find it helpful, please give it an 👍 UPVOTE and join the discussion!* 
 
 
 
 
-    
+
    
 ## 🤝Contributing
 
@@ -47,6 +45,8 @@ I'm Akshay Shekade, a Data Scientist, passionate about data visualization, analy
 - **GitHub**: [Github](https://github.com/AkshayShekade)
 - **Tableau Public**: [Tableau Public](https://public.tableau.com/app/profile/akshay.shekade/vizzes)
 
+
+
 🌐Feel free to connect with me!
 
 <br>
@@ -58,9 +58,3 @@ I'm Akshay Shekade, a Data Scientist, passionate about data visualization, analy
 Code with joy! 👩‍💻✨
 
 ---
-
-
-
-##### 📜 License
-
-##### This repository is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
